@@ -1,0 +1,15 @@
+﻿Ques 2 -  Explain the difference between Absolute and Relative positioning.
+
+
+Answer:- 
+
+
+Relative Position:
+* An element with position: relative; is adjusted relative to its normal position.
+* It doesn’t affect other content around it.
+* Use the top, right, bottom, and left properties to shift it.
+
+
+Absolute Positioning:
+* An element with position: absolute; is positioned relative to its nearest positioned ancestor (or the document body if none).
+* It’s removed from the normal flow and can overlap other elements.

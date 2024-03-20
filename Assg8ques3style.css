@@ -1,0 +1,20 @@
+
+.cardImage{
+    float: right;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.card {
+    padding: 10px;
+    background-color: beige;
+    border-radius: 5px;
+    height: 300px;
+    border: 2px solid black;
+    }
+
+    p{
+        font-size:x-large;
+    }
